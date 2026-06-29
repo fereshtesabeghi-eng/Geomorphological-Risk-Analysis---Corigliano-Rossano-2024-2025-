@@ -170,22 +170,7 @@ La carta geomorfologica finale (Area n°2) è organizzata per categorie genetich
 
 ---
 
-## Materiali del repository
 
-```
-.
-├── README.md
-├── docs/
-│   └── Elaborato_finale.pdf          # Report completo originale (con tutte le figure di campo)
-└── images/
-    ├── 01_study_area_location.jpg               # Inquadramento territoriale
-    ├── 02_trionto_basin_geomorphological_map.jpg # Carta CNR del bacino del Trionto (1:50.000)
-    ├── 03_field_survey_base_map.jpeg             # Tavola di campo — base topografica annotata
-    ├── 04_field_survey_colored_map.jpeg          # Tavola di campo — colorazione litologica/morfologica
-    ├── 05_final_geomorphological_map.jpg         # Carta geomorfologica finale digitalizzata (GIS)
-    ├── 06_hillshade_relief_map.jpg               # Hillshade + reticolo idrografico (ArcGIS Pro)
-    └── 07_slope_analysis_map.jpg                 # Carta delle pendenze (Slope, DEM 5×5 m)
-```
 
 For reference, the regional CNR geomorphological map of the wider Trionto basin (used as a background framework, not produced by this study) is also included:
 
